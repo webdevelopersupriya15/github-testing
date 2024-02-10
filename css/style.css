@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.container{
+	width:1000px;
+	padding: 20px;
+	text-align: center;
+	box-shadow: 0 0 2px #ccc;
+	margin: 100px auto 0 auto;
+	height:200px;
+}
+.container p{
+	color:blue;
+}
